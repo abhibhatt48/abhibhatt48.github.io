@@ -68,7 +68,7 @@ h1{
 .header-menu .navbar-nav .nav-link{
     font-size:30px;
     font-weight: 400;
-    color: #ff8e00;
+    
 }
 
 .header-menu .navbar-expand-lg .navbar-collapse{
@@ -110,19 +110,7 @@ h1{
     right: 0;
     border-radius: 3px 0 0 3px;
   }
-  .prev, .next {
-    cursor: pointer;
-    position: absolute;
-    top: 50%;
-    width: auto;
-    margin-top: -30px;
-    padding: 16px;
-    color: rgb(82, 74, 74);
-    font-weight: bold;
-    font-size: 20px;
-    border-radius: 0 3px 3px 0;
-    user-select: none;
-  }
+  
   
   ol,
 ul,
@@ -380,6 +368,7 @@ dl {
             width: auto;
           }
         }  
+        
         
 
        
