@@ -367,7 +367,31 @@ dl {
             height: 370px;
             width: auto;
           }
-        }  
+        } 
+        .box 
+        {
+          padding: 0px;
+          margin: 0px;
+        } 
+        @media only screen and (max-width:  480px)
+        {
+          .box {
+            padding: 0px;
+            margin: 0px;
+            display: flex;
+            flex-direction: column-reverse;
+          }
+        }
+        @media only screen and (max-width:  786px)
+        {
+          .box {
+            padding: 0px;
+            margin: 0px;
+            display: flex;
+            flex-direction: column-reverse;
+          }
+        }
+
         
         
 
