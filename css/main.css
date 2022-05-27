@@ -84,7 +84,7 @@ h1{
     background: white;
 }
 .container-fluid {
-    padding: 60px 50px;
+    padding: 30px 50px;
     padding-top: 50px;
   }
   
@@ -193,14 +193,6 @@ dl {
         transition: max-height 0.2s ease-out;
       }
 
-
-      
-
-
-
-
-
-
       .owl-carousel {
         position: relative; }
         .owl-carousel .owl-item {
@@ -283,8 +275,6 @@ dl {
           opacity: 0.5;
         }
 
-
-
         .h1{
           margin-bottom: 30px;
         }
@@ -305,8 +295,7 @@ dl {
           width: 33%;
         }
           
-          .ftco-section {
-            padding: 7em 0; }
+        
           
            
           #footer {
